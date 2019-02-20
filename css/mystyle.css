@@ -1,0 +1,29 @@
+#header{
+  background-color: blue;
+}
+
+#menu{
+  background-color: red;
+  float: left;
+  width: 150px;
+  height: 100%;
+  font-size: 20px;
+
+  list-style: none;
+  text-decoration: none;
+
+}
+
+#content{
+  background-color: yellow;
+  margin-left: 160px;
+}
+
+#footer{
+  background-color: purple;
+}
+
+html,	body {
+  height: 100%;
+  width: 100%;
+}
